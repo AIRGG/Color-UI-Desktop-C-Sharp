@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\cobaUI\cobaUI\bin\Debug\cobaUI.exe.config
+C:\Users\user\source\repos\cobaUI\cobaUI\bin\Debug\cobaUI.exe
+C:\Users\user\source\repos\cobaUI\cobaUI\bin\Debug\cobaUI.pdb
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.FlatUI1.resources
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.FlatUI2.resources
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.FlatUI3.resources
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.FlatUI4.resources
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.FlatUI5.resources
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.FlatUI6.resources
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.FlatUI7.resources
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.menu.resources
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.Properties.Resources.resources
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.exe
+C:\Users\user\source\repos\cobaUI\cobaUI\obj\Debug\cobaUI.pdb
